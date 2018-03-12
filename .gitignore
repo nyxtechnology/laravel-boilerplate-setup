@@ -11,3 +11,27 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
+docker-composer.yml
+
+####Remove this init project###
+
+.env.example
+.gitattributes
+public
+app
+artisan
+bootstrap
+composer.lock
+config
+database
+package.json
+phpunit.xml
+readme.md
+resources
+routes
+server.php
+storage
+tests
+webpack.mix.js
+
+####End remove###
