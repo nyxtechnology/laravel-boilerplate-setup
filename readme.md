@@ -27,7 +27,7 @@ composer update
 ### Gerando a chave do projeto Laravel
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
 ```bash
-php artisan key:genarate
+php artisan key:generate
 ```
 ### Permissão para pasta storage
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
