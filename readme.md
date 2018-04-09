@@ -1,6 +1,6 @@
-<span align="center">
+<div align="center">
     <img src="https://scontent.fplu9-1.fna.fbcdn.net/v/t1.0-9/397258_438046579586077_1008515949_n.png?_nc_cat=0&_nc_eui2=v1%3AAeGobJoJorq0jfHTKbuT50JJJEwUDc98iK9C3ey64XysJLDiGMbXPaRq0WhMC4y6h3bQdM2av_FDB5t_Xxs3knweQ7E3NifU22XAGl5LRrQ30w&oh=5bda00398f34cd731818cdb2fe29f7d9&oe=5B315876" style="max-width:100%;height: 90px;">
-</span>
+</div>
 </br>
 <p align="center">
     <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" style="max-width:100%;height: 70px;">
