@@ -42,6 +42,7 @@ services:
       NGINX_ERROR_LOG_LEVEL: debug
       NGINX_BACKEND_HOST: php
       NGINX_SERVER_ROOT: /var/www/html/public
+    user: 1000:82
     volumes:
       - ./:/var/www/html
       # Options for macOS users (https://docker4drupal.readthedocs.io/en/latest/macos)

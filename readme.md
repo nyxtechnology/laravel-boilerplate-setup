@@ -6,6 +6,27 @@
     <img src="https://cloudinary-a.akamaihd.net/bountysource/image/upload/d_noaoqqwxegvmulwus0un.png,c_pad,w_200,h_200,b_white/oaypndxahpn8vl9tmj0q.jpg">
 </p>
 
+## Instalação
+
+### Requisitos
+* Docker
+* Docker composer
+
+### Configuração do Ambiente
+* Clone o projeto para a pasta de sua escolha.
+* Acesse a pasta do projeto. Faça uma copia do arquivo `exemple.docker-compose.yml` e renomei-a para `docker-compose.yml`.
+
+### Configuração de environment
+* Faça uma copia do arquivo de enviromente de exemplo `.env.example` e renomei-o para .env
+
+### Iniciando Serviços
+* Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
+```bash
+make run
+```
+<br>
+<br>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
