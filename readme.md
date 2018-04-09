@@ -3,8 +3,7 @@
 </div>
 </br>
 <p align="center">
-    <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" style="max-width:100%;height: 70px;">
-    <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
+    <img src="https://cloudinary-a.akamaihd.net/bountysource/image/upload/d_noaoqqwxegvmulwus0un.png,c_pad,w_200,h_200,b_white/oaypndxahpn8vl9tmj0q.jpg">
 </p>
 
 ## About Laravel
