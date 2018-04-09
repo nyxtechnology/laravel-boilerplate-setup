@@ -19,6 +19,21 @@
 ### Configuração de environment
 * Faça uma copia do arquivo de enviromente de exemplo `.env.example` e renomei-o para .env
 
+### Intalando dependências
+* Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
+```bash
+composer update
+```
+### Gerando a chave do projeto Laravel
+* Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
+```bash
+php artisan key:genarate
+```
+### Permissão para pasta storage
+* Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
+```bash
+sudo chown 1000:82 -R storage/
+```
 ### Iniciando Serviços
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
 ```bash
