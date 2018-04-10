@@ -17,7 +17,7 @@
 * Acesse a pasta do projeto. Faça uma copia do arquivo `exemple.docker-compose.yml` e renomei-a para `docker-compose.yml`.
 
 ### Configuração de environment
-* Faça uma copia do arquivo de enviromente de exemplo `.env.example` e renomei-o para .env
+* Faça uma copia do arquivo de enviromente de exemplo `.env.example` e renomei-o para `.env`
 
 ### Intalando dependências
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
@@ -32,7 +32,7 @@ php artisan key:generate
 ### Permissão para pasta storage
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
 ```bash
-sudo chown 1000:82 -R storage/
+sudo chown 1000:82 storage/ -R
 ```
 ### Iniciando Serviços
 * Acesse a pasta do projeto pelo `terminal` e execute o seguinte comando:
