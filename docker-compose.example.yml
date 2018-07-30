@@ -34,7 +34,7 @@ services:
 #      - docker-sync:/var/www/html # Docker-sync for macOS users
 
   nginx:
-    image: wodby/php-nginx:1.13-4.0.2
+    image: wodby/php-nginx:1.15-4.2.0
     depends_on:
       - php
     environment:
